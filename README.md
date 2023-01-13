@@ -10,8 +10,8 @@
 - HTML Programer
 ## Contacts
 - E-mail:yushun080814@gmail.com
-- Telegram:https://t.me/yushunqwq
-- Gpg public key:https://keys.openpgp.org/vks/v1/by-fingerprint/8FA004967D4E5392F65F9EA2A2D923153B9E4D08
+- Telegram:[yushunqwq](https://t.me/yushunqwq)
+- GPG public key:[Check me to download](https://keys.openpgp.org/vks/v1/by-fingerprint/8FA004967D4E5392F65F9EA2A2D923153B9E4D08)
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yushunqwq&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
