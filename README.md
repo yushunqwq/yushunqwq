@@ -11,9 +11,9 @@
 ## Contacts
 - E-mail:yushun080814@gmail.com
 - Telegram:https://t.me/yushunqwq
-- Gpg public key:
+- Gpg public key:https://keys.openpgp.org/vks/v1/by-fingerprint/8FA004967D4E5392F65F9EA2A2D923153B9E4D08
 ## My Stats
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yushunqwq&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
 ## Fantasy numbers
-![MN](https://count.getloli.com/get/@yushunqwq?theme=moebooru)
+![FN](https://count.getloli.com/get/@yushunqwq?theme=moebooru)
