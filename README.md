@@ -13,7 +13,7 @@
 - Telegram:https://t.me/yushunqwq
 - Gpg public key:
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushunqwq&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushunqwq)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yushunqwq&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
 ## Fantasy numbers
 ![MN](https://count.getloli.com/get/@yushunqwq?theme=moebooru)
