@@ -19,4 +19,4 @@
 ## Sponsors
 * XMR: `49ZtayPcyj7h2mbWUXe8YoVyQicJNCRW6DQEJRaYrFfF9gHQNadwC4DPkheZrC2WLRJxfFY6vd6upY78HdQgx1Yy2MeZKX6`
 ## Fantasy numbers
-![FN](https://count.getloli.com/get/@yushunqwq?theme=moebooru)
+![FN](https://count.getloli.com/get/@yushunqwq?theme=rule34)
