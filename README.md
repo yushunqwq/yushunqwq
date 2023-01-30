@@ -18,5 +18,11 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
 ## Sponsors
 * XMR: `49ZtayPcyj7h2mbWUXe8YoVyQicJNCRW6DQEJRaYrFfF9gHQNadwC4DPkheZrC2WLRJxfFY6vd6upY78HdQgx1Yy2MeZKX6`
-## Fantasy numbers
-![FN](https://count.getloli.com/get/@yushunqwq?theme=rule34)
+## Others
+<!-- 
+[FN](https://count.getloli.com/get/@yushunqwq?theme=rule34)
+-->
+<p>
+<img src="https://count.getloli.com/get/@yushunqwq?theme=rule34" align="left">
+<img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+</p>
