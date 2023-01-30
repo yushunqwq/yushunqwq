@@ -11,7 +11,7 @@
 ## Contact me
 - E-mail:2652792700@qq.com
 - Telegram:[yushunqwq](https://t.me/yushunqwq)
-## My Stats
+## Github Stats
 ![yushunqwq's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yushunqwq&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
 ## Sponsors
