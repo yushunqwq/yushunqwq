@@ -16,5 +16,5 @@
 [FN](https://count.getloli.com/get/@yushunqwq?theme=rule34)
 -->
 <p>
-<img src="https://yushunqwq.my.to/?name=name&img_prefix=rule34&align=counter" align="left">
+<img src="https://yushunqwq.my.to/?name=yushunqwq&img_prefix=rule34&align=counter" align="left">
 </p>
