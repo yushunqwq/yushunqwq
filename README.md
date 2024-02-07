@@ -9,12 +9,12 @@
 -->
 <!--## Github Stats-->
 ## YushunQWQ
-![yushunqwq's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yushunqwq&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yushunqwq)
+![yushunqwq's GitHub stats](https://yushunqwq.k4dm.net/api?username=yushunqwq&show_icons=true)
+![Top Langs](https://yushunqwq.k4dm.net/api/top-langs/?username=yushunqwq)
 ## 
 <!-- 
 [FN](https://count.getloli.com/get/@yushunqwq?theme=rule34)
 -->
 <p>
-<img src="https://count.getloli.com/get/@yushunqwq?theme=rule34" align="left">
+<img src="https:///yushunqwq.my.to/?name=name&img_prefix=rule34&align=counter" align="left">
 </p>
